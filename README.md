@@ -24,4 +24,4 @@ This project is part of a Business Analytics challenge focused on enhancing a **
 2. Open it in **Tableau Public** or **Tableau Desktop**.
 
 ---
-*Developed as part of my journey to becoming a Data Scientist. Connect with me on [LinkedIn](LINK_TO_YOUR_PROFILE)!*
+*Developed as part of my journey to becoming a Data Scientist. Connect with me on [LinkedIn](https://www.linkedin.com/in/obaidofficialprofile/)!*
